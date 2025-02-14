@@ -2,7 +2,7 @@
 - 👀 I’m interested in adnvace python libraries and data analytics Tools.
 - 🌱 I’m currently learning power BI, Python Libraries
 - 💞️ I’m looking to collaborate on exciting analytics projects
-- 📫 How to reach me 
+- 📫 How to reach me [Linkdin](https://www.linkedin.com) , Gmail - Devkumarsaini12@gmail.com
 - ⚡ Fun fact: Analytics people's dashboard handle more money then J.P Morgan a day.
 
 <!---
